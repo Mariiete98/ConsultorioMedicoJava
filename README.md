@@ -1,6 +1,15 @@
 # ConsultorioMedicoJava
 Consultorio Médico con BBDD local en phpmyadmin (no en remoto)
 
+-- --------------------------------------------------------
+
+-- ACCESO
+
+MÉDICO: usuario: medico, contraseña: medico
+ENFERMERÍA: usuario: enfermeria, contraseña: enfermeria
+ADMIN: usuario: admin, contraseña: admin
+
+-- --------------------------------------------------------
 
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
